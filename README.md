@@ -7,6 +7,7 @@
 </p>
 
 ## 🧠 About
+- 🐔Overwhelmed  
 - 🎓 Studying AI in Paris
 - 🔭 Currently learning: Random coding stuff, French
 - 🎮 Gamer · 🏎️ F1 fan ·
